@@ -1,0 +1,8 @@
+{
+  "name": "Vedic Astrology AI Portal",
+  "description": "A premium full-stack Vedic Astrology platform featuring AI horoscope, Kundli generator, marriage matching, Tarot reading, Numerology, and active chat consults powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
